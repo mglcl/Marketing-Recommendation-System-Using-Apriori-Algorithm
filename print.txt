@@ -1,0 +1,9 @@
+		SUPERMARKET BILL		
+		                        		
+2022/2/18			23:29
+Product name	|Price
+chillies			100
+eggs			5
+butter			50
+bread			32
+Payable Amount:	735.0
